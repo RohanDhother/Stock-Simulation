@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=AllShares
+comment1.params=Name\ Value\ Units
+comment1.target=AllShares(java.lang.String,\ double,\ int)
+comment2.params=s
+comment2.target=double\ getValue(Shares)
+comment3.params=s
+comment3.target=java.lang.String\ getName(Shares)
+comment4.params=s
+comment4.target=int\ getUnits(Shares)
+comment5.params=s\ Units
+comment5.target=void\ AddUnits(Shares,\ int)
+comment6.params=s\ Units
+comment6.target=void\ RemoveUnits(Shares,\ int)
+comment7.params=s\ amount
+comment7.target=void\ SetValue(Shares,\ double)
+numComments=8

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Main
+comment1.params=
+comment1.target=Main()
+comment2.params=ans
+comment2.target=int\ isUsername(java.lang.String)
+comment3.params=ans\ place
+comment3.target=boolean\ isPassword(java.lang.String,\ int)
+comment4.params=
+comment4.target=void\ InitialiseUsers()
+comment5.params=
+comment5.target=void\ UpdateUsers()
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

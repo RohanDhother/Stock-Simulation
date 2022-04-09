@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=BuyingShares
+comment1.params=username
+comment1.target=BuyingShares(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Portfolio\r\n
+comment2.params=
+comment2.target=void\ show_BuyingShares()
+comment3.params=
+comment3.target=void\ hide_BuyingShares()
+comment4.params=
+comment4.target=void\ setShares()
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=
+comment6.target=void\ UpdateBuyShares()
+comment7.params=s
+comment7.target=boolean\ isStringInt(java.lang.String)
+numComments=8

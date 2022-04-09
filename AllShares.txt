@@ -1,0 +1,6 @@
+Name;Value;Units
+Apple;1.0;1000
+Google;2.0;1000
+Amazon;17.0;1000
+Tesco;6.0;1000
+FB;4.0;1000

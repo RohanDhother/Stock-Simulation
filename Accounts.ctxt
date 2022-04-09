@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Accounts
+comment1.params=Username\ Password
+comment1.target=Accounts(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=void\ InitialiseUsers()
+comment3.params=
+comment3.target=void\ UpdateUsers()
+comment4.params=ans
+comment4.target=int\ isUsername(java.lang.String)
+comment5.params=ans\ place
+comment5.target=boolean\ isPassword(java.lang.String,\ int)
+comment6.params=Username\ Password
+comment6.target=void\ setAccounts(java.lang.String,\ java.lang.String)
+comment7.params=acc
+comment7.target=java.lang.String\ getUsername(Main)
+comment8.params=acc
+comment8.target=java.lang.String\ getPassword(Main)
+numComments=9
